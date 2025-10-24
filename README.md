@@ -24,5 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayanSayyed&" alt="ayansayyad" /></p>   
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AayanSayyed&theme=react-dark&hide_border=true" alt="AayanSayyed Activity Graph" />
+  <img src="https://ghchart.rshah.org/AayanSayyed" alt="Contribution Graph" />
 </p>
