@@ -125,7 +125,7 @@ Added a new GitHub Activity Graph for a more "advanced" look
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAyanSayyad%26theme%3Dtokyonight&" alt="ayansayyad" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAayanSayyed%26theme%3Dtokyonight&" alt="ayansayyad" />
 
 
 
@@ -133,5 +133,5 @@ Added a new GitHub Activity Graph for a more "advanced" look
 
 
 
-<img align="center" width="95%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAyanSayyad%26theme%3Dtokyo-night%26hide_border%3Dtrue%26area%3Dtrue%26line%3D9745FF%26point%3DC792EA" alt="github activity graph" />
+<img align="center" width="95%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAayanSayyed%26theme%3Dtokyo-night%26hide_border%3Dtrue%26area%3Dtrue%26line%3D9745FF%26point%3DC792EA" alt="github activity graph" />
 </p>
