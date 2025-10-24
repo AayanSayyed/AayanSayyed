@@ -24,5 +24,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayanSayyed&" alt="ayansayyad" /></p>   
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/AayanSayyed" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AayanSayyed&theme=radical" alt="Profile Summary" />
 </p>
