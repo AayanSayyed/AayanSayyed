@@ -15,43 +15,43 @@ The right column (width="40%") holds the GitHub stats cards.
 <tr align="center">
 <td width="60%" valign="top">
 
-  <h3 align="left">🚀 About Me</h3>
-  <p align="left">
-    - 🔭 I’m currently building <a href="https://cybershiksha.tech" target="_blank"><b>CyberShiksha</b></a>.<br>
-    - 🌱 My primary focus is on <b>Web Development</b> & <b>Cyber Security</b>.<br>
-    - 👨‍💻 All of my public projects are available on this profile.<br>
-    - ⚡ Fun fact: I think I am funny. (We'll be the judge of that! 😄)
-  </p>
+  <h3 align="left">🚀 About Me</h3>
+  <p align="left">
+    - 🔭 I’m currently building <a href="https://cybershiksha.tech" target="_blank"><b>CyberShiksha</b></a>.<br>
+    - 🌱 My primary focus is on <b>Web Development</b> & <b>Cyber Security</b>.<br>
+    - 👨‍💻 All of my public projects are available on this profile.<br>
+    - ⚡ Fun fact: I think I am funny. (We'll be the judge of that! 😄)
+  </p>
 
-  <h3 align="left">📬 Connect with Me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/ayan%20sayyed" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ayan Sayyad"/></a>
-    <a href="https://instagram.com/itz_ayan_407" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="itz_ayan_407"/></a>
-    <a href="https://www.youtube.com/c/ethixploit" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ethixploit"/></a>
-    <a href="mailto:ayansayyad@poonacollege.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayan"/></a>
-  </p>
-  
+  <h3 align="left">📬 Connect with Me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/ayan%20sayyed" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ayan Sayyad"/></a>
+    <a href="https://instagram.com/itz_ayan_407" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="itz_ayan_407"/></a>
+    <a href="https://www.youtube.com/c/ethixploit" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ethixploit"/></a>
+    <a href="mailto:ayansayyad@poonacollege.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayan"/></a>
+  </p>
+  
 </td>
 <td width="40%" valign="top">
-  
-  <!-- 
-  GitHub Stats Card
-  - Corrected username=AyanSayyad (removed extra quotes)
-  - Added show_icons=true
-  - Added theme=tokyonight
-  - Added count_private=true for a more accurate commit/PR count
-  -->
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyanSayyad&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ayansayyad" />
-    <br><br>
-  <!-- 
-  Top Languages Card
-  - Added this new card for more visual appeal
-  - layout=compact and theme=tokyonight
-  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyanSayyad&layout=compact&theme=tokyonight" alt="ayansayyad-top-langs" />
-  </p>
-  
+  
+  <!-- 
+  GitHub Stats Card
+  - Corrected username=AyanSayyad (removed extra quotes)
+  - Added show_icons=true
+  - Added theme=tokyonight
+  - Added count_private=true for a more accurate commit/PR count
+  -->
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyanSayyad&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ayansayyad" />
+    <br><br>
+  <!-- 
+  Top Languages Card
+  - Added this new card for more visual appeal
+  - layout=compact and theme=tokyonight
+  -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyanSayyad&layout=compact&theme=tokyonight" alt="ayansayyad-top-langs" />
+  </p>
+  
 </td>
 
 
@@ -125,7 +125,7 @@ Added a new GitHub Activity Graph for a more "advanced" look
 
 <h3 align="center">📊 My GitHub Activity</h3>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAyanSayyad%26theme%3Dtokyonight&" alt="ayansayyad" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DAayanSayyed%26theme%3Dtokyonight&" alt="ayansayyad" />
 
 
 
@@ -133,5 +133,6 @@ Added a new GitHub Activity Graph for a more "advanced" look
 
 
 
-<img align="center" width="95%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAyanSayyad%26theme%3Dtokyo-night%26hide_border%3Dtrue%26area%3Dtrue%26line%3D9745FF%26point%3DC792EA" alt="github activity graph" />
+<img align="center" width="95%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAayanSayyed%26theme%3Dtokyo-night%26hide_border%3Dtrue%26area%3Dtrue%26line%3D9745FF%26point%3DC792EA" alt="github activity graph" />
 </p>
+   links not working nothing showing and git hub ayan activity graph also not visible 
