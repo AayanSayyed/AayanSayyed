@@ -17,7 +17,8 @@
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AayanSayyed&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="AyanSayyed GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AayanSayyed&show_icons=true&locale=en" alt="AyanSayyed GitHub stats" />
 </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayanSayyed&" alt="ayansayyad" /></p>    
